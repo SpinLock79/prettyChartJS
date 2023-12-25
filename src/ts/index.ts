@@ -1,0 +1,1 @@
+const lib = require("../../build/Release/prettyChartJs");
